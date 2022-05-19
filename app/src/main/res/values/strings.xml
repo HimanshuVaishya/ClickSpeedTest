@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Click Speed Test</string>
+    <string name="about">"The Click Speed Test is a free click per Ten second test, which measures your clicking speed in given time frame. Playing the game is easy and fun at the same time. The game is suitable for all age groups, so don't worry if you are just a high school student or a person with a corporate job.
+        Have you wondered how many clicks can you accomplish in ten seconds? Well, many might not even know if there is a way to calculate such an atypical activity. It might come as a surprise that not only there is a way to calculate the number of clicks per given timeframe but also many users play the game and compete globally."</string>
+    <string name="click_me">Click Me!</string>
+    <string name="player1">1 Player</string>
+    <string name="players1">2 Players</string>
+    <string name="about_game">About Game</string>
+    <string name="play_again">Play Again</string>
+    <string name="menu">Menu</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="high_score">High Score:</string>
+
+
+</resources>

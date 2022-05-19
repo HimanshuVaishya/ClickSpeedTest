@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="35sp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnplayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/player1"
+        android:background="@drawable/btn_back"
+        android:padding="18dp"
+        android:textSize="25sp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnplayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/players1"
+        android:background="@drawable/btn_back"
+        android:padding="18dp"
+        android:textSize="25sp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnabout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_game"
+        android:background="@drawable/btn_back"
+        android:padding="18dp"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
